@@ -1,0 +1,19 @@
+{
+  "name": "backbone.validations",
+  "version": "0.9.10-npm",
+  "description": "--------",
+  "main": "backbone.validations.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spmason/backbone.validations.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spmason/backbone.validations/issues"
+  },
+  "homepage": "https://github.com/spmason/backbone.validations#readme"
+}
